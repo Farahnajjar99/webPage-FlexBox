@@ -96,7 +96,7 @@ body {
 .btn:hover {
   background-color: rgb(64, 14, 247);
 }
-@media (min-width: 700px) {
+@media (min-width: 701px) {
   #what .items {
     display: flex;
     padding: 2rem;
